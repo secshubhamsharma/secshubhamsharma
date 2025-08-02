@@ -17,6 +17,6 @@ I'm into cybersecurity and spend most of my time reporting vulnerabilities, inve
 
 ---
 
-### Langauges
+### Langauges & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
