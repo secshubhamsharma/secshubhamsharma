@@ -15,6 +15,8 @@ I'm into cybersecurity and spend most of my time reporting vulnerabilities, inve
          <img alt="Github Profile" title="My Github Profile" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
    </p>
 
-
-
 ---
+
+### Langauges
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
